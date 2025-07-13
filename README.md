@@ -109,10 +109,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 This application is for educational and research purposes only. It should not be used as a substitute for professional medical advice, diagnosis, or treatment. Always consult with qualified healthcare professionals for medical decisions.
 
-## 📞 Contact
-
-For questions or support, please open an issue on GitHub or contact the maintainers.
-
 ---
 
 **Note**: This is a machine learning model and should be used responsibly. The predictions are based on statistical patterns and may not be 100% accurate for all individuals. 
